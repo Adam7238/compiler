@@ -1,4 +1,4 @@
-# compiler
+# Compiler
 A small compiler to compile code into Forth instructions
 
 The program currently accepts multiple ‘;’ separated statements that are valid mathematical expressions. 
