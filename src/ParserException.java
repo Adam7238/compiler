@@ -1,5 +1,3 @@
-package CE305_assignment2;
-
 /**
  * Created by arkins on 08/02/2017.
  * The ParserException class throws an exception and
