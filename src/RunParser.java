@@ -1,5 +1,3 @@
-package CE305_assignment2;
-
 /**
  * Created by arkins on 09/02/2017.
  * This is the main method for instantiating the
