@@ -1,4 +1,3 @@
-package CE305_assignment2;
 /*
  * Created on 08/02/2017 by arkins.
  * This class will create a List of tokens from the
