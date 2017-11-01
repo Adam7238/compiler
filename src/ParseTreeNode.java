@@ -1,5 +1,3 @@
-package CE305_assignment2;
-
 /*
  *Created by arkins on 08/02/2017
  * This Class will create a new node ready to be passed into the parse tree.
